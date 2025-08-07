@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VedanshArora1905
+- 👋 Hi, I’m Vedansh Arora
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning DSA and WEB Dev
 - 💞️ I’m looking to collaborate on numerous projects
